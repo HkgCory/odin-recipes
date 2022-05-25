@@ -1,2 +1,2 @@
 # odin-recipes
-simple http 
+simple http exercise
